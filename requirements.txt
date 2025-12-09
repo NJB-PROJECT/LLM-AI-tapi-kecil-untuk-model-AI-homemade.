@@ -1,0 +1,11 @@
+streamlit
+llama-cpp-python
+faster-whisper
+pypdf
+python-docx
+pyttsx3
+Pillow
+huggingface_hub
+streamlit-audiorecorder
+numpy
+soundfile
